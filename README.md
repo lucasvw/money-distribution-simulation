@@ -2,6 +2,8 @@
 Simulates the way money gets distributed if n people give 1 dollar each round to a random person
 
 
+[SEE HERE][2]
+
 This morning I saw a tweet mentioning an [article][1] with the exciting title:
 
 **Counterintuitive problem: Everyone in a room keeps giving dollars to random others. You’ll never guess what happens next**
@@ -93,3 +95,4 @@ plt.show()
 
 
 [1]:http://www.decisionsciencenews.com/2017/06/19/counterintuitive-problem-everyone-room-keeps-giving-dollars-random-others-youll-never-guess-happens-next/
+[2]:https://lucasvw.github.io/main/2017/06/22/money.html
